@@ -1,0 +1,29 @@
+[
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/srYya1ZlI97Au4jUYAktDe3avyA.jpg",
+      "id": 464052,
+      "original_language": "en",
+      "original_title": "Leonardo",
+      "overview": "Wearing an ocean blue bandana, his signature weapons are a set of two katana (or ninjatos). Leonardo is the leader and strategist of the turtles. He's traditionally portrayed as the most mature and disciplined of the Turtles, displaying a stoic demeanor and a strong sense of responsibility. Like his brothers, he is named after an Italian Renaissance artist, in this case Leonardo da Vinci..",
+      "poster_path": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bigbadtoystore.com%2FProduct%2FVariationDetails%2F31977&psig=AOvVaw2lkJ1cV9xO7rO9VHQDqgUE&ust=1706492616446000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDhg8P6_oMDFQAAAAAdAAAAABAJ",
+      "title": "Leaonardo"
+    
+        {
+          "id": 28,
+          "name": "Mask: Blue bandana"
+        },
+        {
+          "id": 12,
+          "name": "Signature weapons: A set of two katana (or ninjatos)."
+        },
+        {
+            "id": 14,
+            "name": "Leonardo is the leader and strategist of the turtles. He's traditionally portrayed as the most mature and disciplined of the Turtles, displaying a stoic demeanor and a strong sense of responsibility." 
+          },
+          {
+            "id": 14,
+            "name": "he is named after an Italian Renaissance artist. Leonardo da Vinci."
+
+              }
+      ]
