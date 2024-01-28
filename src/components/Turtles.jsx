@@ -1,7 +1,7 @@
 import Weapons from "./Weapons"
 
 
-const Turtle= (props) => {
+const Turtle = (props) => {
 
     return (
       <div> 
