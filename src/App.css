@@ -1,0 +1,181 @@
+body {
+    margin: 0;
+    text-align: center; 
+  }
+  .weapons-card {
+    display: flex;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px
+  }
+  body {
+    margin:0;
+    font-family: Zen Old Mincho, serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #6d6969;
+  }
+  .TurtleTitle {
+    display: flex;
+    justify-content: center;
+  }
+  .App {
+    text-align: center;
+    display: flex;
+    width: 99vw;
+    justify-content: space-around;
+    align-items:center
+  }
+  .title-bar{
+   display: flex;
+   width: 99vw;
+   justify-content: space-around;
+   align-items: center
+  }
+  .title{
+    height: 50px;
+    width: 5vw;
+  }
+  .title-bar>button {
+    font-family: Zen Old Mincho, serif;
+    height: 50px;
+    width: 5vw;
+    color: #fff;
+    background-color: gray;
+    border: 3px solid black;
+    border-radius: 15px;
+    font-weight: bolder
+  }
+  .title-bar>button:hover {
+    cursor: pointer;
+    background-color: rgb(61, 13, 38);
+    border: 3px dotted rgb (253, 240, 169);
+    color: #fdf0a9;
+  }
+  .title {
+  font-family: Codystar,cursive;
+  color: #fdf0a9;
+  font-weight: 700;
+  font-size: 4vh;
+  border: 6px dotted rgb (253, 240, 169);
+  border-radius: 15px;
+  background-color: rgb(61, 13, 38);
+  }
+  .turtles {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  .poster {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    background-color: gray;
+    width: 25vw;
+    padding: 10px;
+    border: 6px solid black;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px pink;
+    margin: 20px;
+    color: #fff;
+  }
+  .poster:hover{
+   background-color: #a2a2a2;
+   color: #000;
+   border: 6px dotted rgb (253,240,169)
+  }
+  .turtles{
+    width:150px;
+    height: 2vh;
+    margin: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 1.1vh;
+    border: 2px solid white;
+    border-radius: 10px;
+  }
+  .turtle:hover{
+    box-shadow: 5px 5px 2.5px #797979;
+  }
+  poster>img {
+    width: 24vw;
+    height:auto;
+    border: 3px solid black;
+    border-radius: 15px;
+    cursor: zoom-in;
+  }
+  .weapons-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .overview {
+    width: 25vw;
+    max-width: 25vw;
+    min-height: 38.5vh;
+    max-height: 38.5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border: 3px solid black;
+    border-radius: 15px;
+    background-color: #d3d3d3;
+    color: #000
+  }
+  .overview>image{
+    width: 100%;
+    height: auto;
+    border: none;
+    border-radius: 11px 11px 0 0;
+    border-bottom: 3px solid black;
+    cursor: pointer;
+  }
+  .overview>div {
+    font-size: .75rem;
+    padding: 5px;
+    overflow: auto;
+    height: 100%;
+    background-color: #eaeaea;
+    border-bottom:  3px solid black;
+  }
+  .overview>div::-webkit-scrollbar{
+    width: 10px;
+  }
+  .overview::-webkit-scrollbar-track{
+    background: lightgray;
+  }
+  .overview>div::-webkit-scrollbar-thumb{
+    background:rgb(61, 13, 38);
+    border-radius:  10px;
+  }
+  .overview>div::-webkit-scrollbar-thumb:hover{
+    background: rgb(253, 240, 169);
+  }
+  .overview>button {
+    cursor: pointer;
+    height: 2vh;
+    width: 150px;
+    font-family: Zen Old Mincho, serif;
+    font-weight: 700;
+    font-size: 1.1vh;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: #b6b6b6;
+    margin-top: 2vh;
+    margin-bottom: 2vh
+  }
+  .overview>button:hover {
+    box-shadow: 5px 5px 2.5px #a9a9a9;
+    color: #b00;
+    border: 3px solid rgb(187, 0, 0)
+  }
+  
+  
+  
+  

@@ -12,29 +12,31 @@
         {
           "id": 28,
           "name": "Mask: Blue bandana"
+       },
+      {
+        "id": 12,
+        "name": " Weapons: A set of two katana (or ninjatos)."
         },
-        {
-          "id": 12,
-          "name": " Weapons: A set of two katana (or ninjatos)."
+       {
+         "id": 14,
+         "name": " Traits: Is mature, stoic and responsible." 
         },
-        {
-            "id": 14,
-            "name": " Traits: Is mature, stoic and responsible." 
-          },
-          {
-            "id": 80,
-            "name": " Name: Named after an Italian Renaissance artist. Leonardo da Vinci."
-              }
+       {
+         "id": 80,
+         "name": " Name: Named after an Italian Renaissance artist. Leonardo da Vinci."
+       }
       ]
+    },
     {
-      "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/srYya1ZlI97Au4jUYAktDe3avyA.jpg",
-      "id": 464052,
-      "original_language": "en",
-      "original_title": "Donatello",
-      "overview": "He does not get into a lot of confrontations with his brothers. He doesn't share the love of combat as his brothers do, instead opting for alternative methods of problem-solving and interests that stimulate the inquiring mind. He is more interested in his work than in his ninjutsu, but he still attends ninja practice and works hard there as well as his projects."
-      "poster_path": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoystlkr.com%2Fproduct%2Ftmnt-movie-1990-movie-donatello-1-4-scale-figure%2F&psig=AOvVaw3WCQw1fRyIyAD5h7yiTOWB&ust=1706494966668000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCt46aD_4MDFQAAAAAdAAAAABAD",
-      "title": "Donatello" [
+     "adult": false,
+     "backdrop_path": "https://image.tmdb.org/t/p/original/srYya1ZlI97Au4jUYAktDe3avyA.jpg",
+     "id": 464052,
+     "original_language": "en",
+     "original_title": "Donatello",
+     "overview": "He does not get into a lot of confrontations with his brothers. He doesn't share the love of combat as his brothers do, instead opting for alternative methods of problem-solving and interests that stimulate the inquiring mind. He is more interested in his work than in his ninjutsu, but he still attends ninja practice and works hard there as well as his projects.",
+     "poster_path": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoystlkr.com%2Fproduct%2Ftmnt-movie-1990-movie-donatello-1-4-scale-figure%2F&psig=AOvVaw3WCQw1fRyIyAD5h7yiTOWB&ust=1706494966668000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCt46aD_4MDFQAAAAAdAAAAABAD",
+     "title": "Donatello", 
+     "turtles": [
         {
           "id": 28,
           "name": "Mask: Purple bandana"
@@ -46,63 +48,67 @@
         {
             "id": 14,
             "name": " Traits: Second in Command. Donatello is a gifted polymath, possessing a natural aptitude for science and technology. He is the most logical and rational of his brothers, possessing a high sense of ingenuity." 
-          },
-          {
+        },
+        {
             "id": 80,
             "name": " Name: Named after a Renaissance artist; in this case, he is named after Italian sculptor Donatello ."
-              }
-              [
-                {
-                  "adult": false,
-                  "backdrop_path": "https://image.tmdb.org/t/p/original/srYya1ZlI97Au4jUYAktDe3avyA.jpg",
-                  "id": 464052,
-                  "original_language": "en",
-                  "original_title": "Raphael",
-                  "overview": "The origin of Raphael's anger is not always fully explored, but in some incarnations appears to stem partly from the realization that they are the only creatures of their kind and ultimately alone, while also bothered by the injustice the helpless and innocent suffer.",
-                  "poster_path": "https://www.toyark.com/wp-content/uploads/2016/11/NECA-Raphael-1990-TMNT-002.jpg",
-                  "title": "Raphael",
-                  "turtles": [
-                    {
-                      "id": 28,
-                      "name": "Mask: Red bandana"
-                    },
-                    {
-                      "id": 12,
-                      "name": " Weapons: Twin sai."
-                    },
-                    {
-                        "id": 14,
-                        "name": " Traits: He serves as the team's enforcer.Emperamental and cynical personality, being short-tempered, aggressive, sullen, maddened, sarcastic, and rebellious.[" 
-                      },
-                      {
-                        "id": 80,
-                        "name": " Name: Named after a Renaissance artist; in this case, he is named after the 16th-century Italian painter Raphael."
-                          }
-                  ]
-                  "adult": false,
-                  "backdrop_path": "https://image.tmdb.org/t/p/original/srYya1ZlI97Au4jUYAktDe3avyA.jpg",
-                  "id": 464052,
-                  "original_language": "en",
-                  "original_title": "Michelangelo"",
-                  "overview": " He often coins most of their catchphrases, such as "Cowabunga!" and "Booyakasha!"",
-                  "poster_path": "https://cdn11.bigcommerce.com/s-8j9ytfqbd1/images/stencil/1280x1280/products/1148/10097/image__31710.1697840598.jpg?c=1?imbypass=on",
-                  "title": "Michelangelo",
-                  "turtles": [
-                    {
-                      "id": 28,
-                      "name": "Mask: Orange bandana" 
-                    },
-                    {
-                      "id": 12,
-                      "name": "Weapons: Dual nunchaku"
-                    },
-                    {
-                        "id": 14,
-                        "name": " The most naturally gifted of the four brothers but prefers to have a good time rather than train. The most jocular and energetic of the team, immature; he is known for his wisecracks, quick-wit, optimism, and love of skateboarding and pizza" 
-                      },
-                      {
-                        "id": 80,
-                        "name": " Name: Named after an Italian Renaissance artist; Michelangelo."
-                        
-                          }
-                  ]
+        }
+      ]
+    },           
+   {
+     "adult": false,
+     "backdrop_path": "https://image.tmdb.org/t/p/original/srYya1ZlI97Au4jUYAktDe3avyA.jpg",
+     "id": 464052,
+     "original_language": "en",
+     "original_title": "Raphael",
+     "overview": "The origin of Raphael's anger is not always fully explored, but in some incarnations appears to stem partly from the realization that they are the only creatures of their kind and ultimately alone, while also bothered by the injustice the helpless and innocent suffer.",
+     "poster_path": "https://www.toyark.com/wp-content/uploads/2016/11/NECA-Raphael-1990-TMNT-002.jpg",
+     "title": "Raphael",
+     "turtles": [
+        {
+            "id": 28,
+            "name": "Mask: Red bandana"
+        },
+        {
+            "id": 12,
+            "name": " Weapons: Twin sai."
+        },
+        {
+            "id": 14,
+            "name": " Traits: He serves as the team's enforcer.Emperamental and cynical personality, being short-tempered, aggressive, sullen, maddened, sarcastic, and rebellious.[" 
+        },
+        {
+            "id": 80,
+            "name": " Name: Named after a Renaissance artist; in this case, he is named after the 16th-century Italian painter Raphael."
+        }
+      ]          
+    },
+   {
+    "adult": false,
+    "backdrop_path": "https://image.tmdb.org/t/p/original/srYya1ZlI97Au4jUYAktDe3avyA.jpg",
+    "id": 464052,
+    "original_language": "en",
+    "original_title": "Michelangelo"",
+    "overview": "He often coins most of their catchphrases such as Cowabunga!and Booyakasha!",
+    "poster_path": "https://cdn11.bigcommerce.com/s-8j9ytfqbd1/images/stencil/1280x1280/products/1148/10097/image__31710.1697840598.jpg?c=1?imbypass=on",
+    "title": "Michelangelo",
+    "turtles": [
+        {
+            "id": 28,
+            "name": "Mask: Orange bandana" 
+        },
+        {
+            "id": 12,
+            "name": "Weapons: Dual nunchaku"
+        },
+        {
+            "id": 14,
+            "name": " The most naturally gifted of the four brothers but prefers to have a good time rather than train. The most jocular and energetic of the team, immature; he is known for his wisecracks, quick-wit, optimism, and love of skateboarding and pizza" 
+        }, 
+        {
+            "id": 80,
+            "name": " Name: Named after an Italian Renaissance artist; Michelangelo."
+        }
+      ]
+    }
+  ]
