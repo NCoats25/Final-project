@@ -27,14 +27,10 @@ body {
     align-items:center
   }
   .title-bar{
-   display: flex;
    width: 99vw;
    justify-content: space-around;
    align-items: center
-  }
-  .title{
-    height: 50px;
-    width: 5vw;
+  
   }
   .title-bar>button {
     font-family: Zen Old Mincho, serif;
@@ -96,7 +92,7 @@ body {
     justify-content: center;
     font-weight: 700;
     font-size: 1.1vh;
-    border: 2px solid white;
+    border: 2px solid rgb(19, 16, 16);
     border-radius: 10px;
   }
   .turtle:hover{
