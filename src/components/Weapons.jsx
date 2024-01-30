@@ -18,7 +18,7 @@ switch (props.weapons.name) {
 
 return (
     <div className="weaponsTitle">
-      <p style={{ backgroundColor: "rgb(61,13,38)", color : '#000000', width: "400px" }}>
+      <p style={{ backgroundColor: "rgb(61,13,38)", color : '#000000', width: "600px" }}>
         {props.weapons.name}
       </p>
     </div>
