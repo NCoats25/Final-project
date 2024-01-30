@@ -38,13 +38,13 @@ body {
     width: 5vw;
     color: #fff;
     background-color: gray;
-    border: 3px solid black;
+    border: 3px solid rgb(246, 244, 244);
     border-radius: 15px;
     font-weight: bolder
   }
   .title-bar>button:hover {
     cursor: pointer;
-    background-color: rgb(61, 13, 38);
+    background-color: rgb(157, 172, 44);
     border: 3px dotted rgb (253, 240, 169);
     color: #fdf0a9;
   }
@@ -72,7 +72,7 @@ body {
     background-color: gray;
     width: 25vw;
     padding: 10px;
-    border: 6px solid black;
+    border: 6px solid rgb(253, 249, 249);
     border-radius: 15px;
     box-shadow: 10px 10px 5px pink;
     margin: 20px;
@@ -80,7 +80,7 @@ body {
   }
   .poster:hover{
    background-color: #a2a2a2;
-   color: #000;
+   color: #faf2f2;
    border: 6px dotted rgb (253,240,169)
   }
   .turtles{
@@ -92,7 +92,7 @@ body {
     justify-content: center;
     font-weight: 700;
     font-size: 1.1vh;
-    border: 2px solid rgb(19, 16, 16);
+    border: 2px solid rgb(244, 236, 236);
     border-radius: 10px;
   }
   .turtle:hover{
@@ -101,7 +101,7 @@ body {
   poster>img {
     width: 24vw;
     height:auto;
-    border: 3px solid black;
+    border: 3px solid rgb(247, 240, 240);
     border-radius: 15px;
     cursor: zoom-in;
   }
@@ -119,17 +119,17 @@ body {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    border: 3px solid black;
+    border: 3px solid rgb(243, 229, 229);
     border-radius: 15px;
     background-color: #d3d3d3;
-    color: #000
+    color: #f5eded
   }
   .overview>image{
     width: 100%;
     height: auto;
     border: none;
     border-radius: 11px 11px 0 0;
-    border-bottom: 3px solid black;
+    border-bottom: 3px solid rgb(239, 229, 229);
     cursor: pointer;
   }
   .overview>div {
@@ -138,7 +138,7 @@ body {
     overflow: auto;
     height: 100%;
     background-color: #eaeaea;
-    border-bottom:  3px solid black;
+    border-bottom:  3px solid rgb(247, 234, 234);
   }
   .overview>div::-webkit-scrollbar{
     width: 10px;
@@ -160,7 +160,7 @@ body {
     font-family: Zen Old Mincho, serif;
     font-weight: 700;
     font-size: 1.1vh;
-    border: 3px solid black;
+    border: 3px solid rgb(241, 231, 231);
     border-radius: 10px;
     background-color: #b6b6b6;
     margin-top: 2vh;
