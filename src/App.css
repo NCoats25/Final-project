@@ -147,7 +147,7 @@ body {
     background: lightgray;
   }
   .overview>div::-webkit-scrollbar-thumb{
-    background:rgb(61, 13, 38);
+    background:rgb(162, 65, 115);
     border-radius:  10px;
   }
   .overview>div::-webkit-scrollbar-thumb:hover{
